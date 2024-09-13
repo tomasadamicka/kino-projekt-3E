@@ -15,6 +15,7 @@ namespace kino
         public Form1()
         {
             InitializeComponent();
+            //adamickatomas
         }
     }
 }
